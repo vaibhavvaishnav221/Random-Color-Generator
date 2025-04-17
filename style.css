@@ -33,7 +33,6 @@ div {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-itmes: center;
     border: 2px solid black;
     border-radius: 15px;
     height: 25%;
